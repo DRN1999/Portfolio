@@ -111,6 +111,14 @@
     color: var(--title-color);
 }
 
+.button {
+    color: black;
+}
+.button--flex{
+    color: black;
+}
+
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
