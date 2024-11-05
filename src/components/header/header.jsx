@@ -8,7 +8,7 @@ const Header = (props) => {
   return (
     <header className="header">
         <nav className="nav container">
-            <a href="#home" className="nav__logo">Rahul</a>
+            <a href="/" className="nav__logo">Rahul</a>
             <div className={Toggle? "nav__menu show-menu": "nav__menu"}>
                 <ul className="nav__list grid">
                     <li className="nav__item">
