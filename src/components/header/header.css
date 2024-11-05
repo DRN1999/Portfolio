@@ -45,8 +45,8 @@
 /* Active link */
 .active-link,
 .nav__link:hover{
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     padding: 0.25rem 0.75rem;
     border-radius: 0.5rem;
 }
