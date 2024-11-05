@@ -1,5 +1,5 @@
 import "./about.css";
-import AboutImg from "../../assets/portfolio.jpg";
+import AboutImg from "../../assets/Capture.JPG";
 import CV from "../../assets/Rahul-Dethe-FullStack.pdf";
 import Info from "./info";
 

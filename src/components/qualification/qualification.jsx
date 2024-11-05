@@ -117,7 +117,7 @@ const Qualification = (props) => {
                         </div>
                         <div>
                             <h3 className="qualification__title">UX Designer</h3>
-                            <span className="qualification__subtitle">SVN Systech PVT LTD</span>
+                            <span className="qualification__subtitle">Bolt-IoT Pvt. Ltd.</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i>2021 - 2023
                             </div>
