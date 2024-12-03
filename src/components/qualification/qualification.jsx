@@ -17,9 +17,9 @@ const Qualification = (props) => {
                     <i className="uil uil-graduation-cap qualification__icon"></i>{" "}Education
                 </div>
 
-                <div className={toggleState===2?"qualification__button qualification__active button--flex": "qualification__button button--flex"} onClick={()=>toggleTab(2)}>
+{/*                 <div className={toggleState===2?"qualification__button qualification__active button--flex": "qualification__button button--flex"} onClick={()=>toggleTab(2)}>
                     <i className="uil uil-briefcase-alt qualification__icon"></i>{" "}Experience
-                </div>
+                </div> */}
             </div>
 
             <div className="qualification__sections">
@@ -158,7 +158,7 @@ const Qualification = (props) => {
 
                         
                     </div> */}
-                </div>
+{/*                 </div> */}
             </div>
         </div>
     </section>
