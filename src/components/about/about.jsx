@@ -1,5 +1,5 @@
 import "./about.css";
-import AboutImg from "../../assets/AvtarMaker.png";
+import AboutImg from "../../assets/AvatarMaker.png";
 import CV from "../../assets/poonammhaskeresume.pdf";
 import Info from "./info";
 
