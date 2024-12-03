@@ -1,6 +1,7 @@
 import "./about.css";
-import AboutImg from "../../assets/Capture.JPG";
-import CV from "../../assets/Rahul-Dethe-FullStack.pdf";
+import AboutImg from "../../assets/AvtarMaker.png";
+import CV from "../../assets/poonammhaskeresume.pdf
+";
 import Info from "./info";
 
 const About = (props) => {
@@ -15,7 +16,7 @@ const About = (props) => {
             <div className="about__data">
                 <Info />
 
-                <p className="about__description">Full-Stack developer, I create web pages with UI /  UX user interface, I have a year of experience and many clients are happy with the projects carried out.</p>
+                <p className="about__description">Graphic Designer, I create unique Logo's, Designs, Template, UI or  UX user interface, I have a year of experience and many clients are happy with the projects carried out.</p>
 
                 <a download="" href={CV} className="button button--flex">Download CV
                 <svg
