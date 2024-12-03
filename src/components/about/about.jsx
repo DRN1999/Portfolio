@@ -1,7 +1,6 @@
 import "./about.css";
 import AboutImg from "../../assets/AvtarMaker.png";
-import CV from "../../assets/poonammhaskeresume.pdf
-";
+import CV from "../../assets/poonammhaskeresume.pdf";
 import Info from "./info";
 
 const About = (props) => {
