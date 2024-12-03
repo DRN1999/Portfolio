@@ -7,7 +7,7 @@ const Social = (props) => {
       <i class="uil uil-whatsapp"></i>
       </a>
       <a href="mailto:mhaskepoonam704@gmail.com" className="home__social-icon" target="_blank">
-      <i class="uis uis-envelope-add"></i>
+      <i class="uil uil-envelope-add"></i>
       </a>
       <a href="https://www.linkedin.com/in/poonam-mhaske-508499306/" className="home__social-icon" target="_blank">
       <i class="uil uil-linkedin"></i>
