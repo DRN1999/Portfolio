@@ -27,9 +27,9 @@ const Contact = (props) => {
                     <div className="contact__card">
                         <i className="bx bx-mail-send contact__card-icon"></i>
                         <h3 className="contact__card-title">Email</h3>
-                        <span className="contact__card-data">DRahul.1999@outlook.com</span>
+                        <span className="contact__card-data">mhaskepoonam704@gmail.com</span>
 
-                        <a href="mailto:DRahul.1999@outlook.com" className="contact__button">
+                        <a href="mailto:mhaskepoonam704@gmail.com" className="contact__button">
                             Write me
                             <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </a>
@@ -38,9 +38,9 @@ const Contact = (props) => {
                     <div className="contact__card">
                         <i className="bx bxl-whatsapp contact__card-icon"></i>
                         <h3 className="contact__card-title">WhatsApp</h3>
-                        <span className="contact__card-data">+91-7738979489</span>
+                        <span className="contact__card-data">+91-9920733089</span>
 
-                        <a href="https://api.whatsapp.com/send?phone=7738979489&text=Hello, more infromation!" className="contact__button">
+                        <a href="https://api.whatsapp.com/send?phone=9920733089&text=Hello, I'm Poonam. Would you please share your project!?" className="contact__button">
                             Write me
                             <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </a>
@@ -51,7 +51,7 @@ const Contact = (props) => {
                         <h3 className="contact__card-title">Messenger</h3>
                         <span className="contact__card-data">user.fb123</span>
 
-                        <a href="https://api.whatsapp.com/send?phone=7738979489&text=Hello, more infromation!" className="contact__button">
+                        <a href="https://api.whatsapp.com/send?phone=9920733089&text=Hello, I'm Poonam. Would you please share your project!?" className="contact__button">
                             Write me
                             <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </a>
