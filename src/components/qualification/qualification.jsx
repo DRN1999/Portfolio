@@ -26,8 +26,8 @@ const Qualification = (props) => {
                 <div className={toggleState===1?"qualification__content qualification__content-active":"qualification__content"}>
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">JavaScript Full-Stack Developer Course</h3>
-                            <span className="qualification__subtitle">RST Forum, Mumbai</span>
+                            <h3 className="qualification__title">Graphic Designer Course</h3>
+                            <span className="qualification__subtitle">Chembur, Mumbai</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i>2023 - present
                             </div>
@@ -47,7 +47,7 @@ const Qualification = (props) => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">M.Sc (Computer Science)</h3>
+                            <h3 className="qualification__title">M.A. (Hindi)</h3>
                             <span className="qualification__subtitle">University of Mumbai</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i>2021 - 2023
@@ -59,7 +59,7 @@ const Qualification = (props) => {
 
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">B.Sc (Computer Science)</h3>
+                            <h3 className="qualification__title">B.A. (Hindi)</h3>
                             <span className="qualification__subtitle">University of Mumbai</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i>2017 - 2020
@@ -92,7 +92,7 @@ const Qualification = (props) => {
                 </div>
 
 
-                <div className={toggleState===2?"qualification__content qualification__content-active":"qualification__content"}>
+{/*                 <div className={toggleState===2?"qualification__content qualification__content-active":"qualification__content"}>
                     <div className="qualification__data">
                         <div>
                             <h3 className="qualification__title">Product Designer</h3>
@@ -139,7 +139,7 @@ const Qualification = (props) => {
                             <span className="qualification__rounder"></span>
                             <span className="qualification__line"></span>
                         </div>
-                    </div>
+                    </div> */}
 
                     {/* <div className="qualification__data"> 
                         <div></div>
