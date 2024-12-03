@@ -1,6 +1,6 @@
-import Work1 from "../../assets/web.jpg"
-import Work2 from "../../assets/app.jpg"
-import Work3 from "../../assets/brand.jpg"
+import Work1 from "../../assets/wp1.jpeg"
+import Work2 from "../../assets/wp3.jpeg"
+import Work3 from "../../assets/wp4.jpeg"
 
 export const projectsData = [
     {
