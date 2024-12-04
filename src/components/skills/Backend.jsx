@@ -10,7 +10,7 @@ const Backend = (props) => {
             <div className="skills__data">
                 <i class='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">Creativity</h3>
+                    <h3 className="skills__name">CorelDraw</h3>
                     <span className="skills__level">Advanced</span>
                 </div>
             </div>
@@ -20,7 +20,7 @@ const Backend = (props) => {
             <div className="skills__data">
                 <i class='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">Time Management</h3>
+                    <h3 className="skills__name">Adobe PhotoShop</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
             </div>
@@ -30,7 +30,7 @@ const Backend = (props) => {
             <div className="skills__data">
                 <i class='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">Teamwork</h3>
+                    <h3 className="skills__name">Adobe Illustrator</h3>
                     <span className="skills__level">Advanced</span>
                 </div>
             </div>
@@ -40,7 +40,7 @@ const Backend = (props) => {
             <div className="skills__data">
                 <i class='bx bx-badge-check'></i>
                 <div>
-                    <h3 className="skills__name">Adaptability</h3>
+                    <h3 className="skills__name">Figma</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
             </div>
