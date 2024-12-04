@@ -11,7 +11,7 @@ const Backend = (props) => {
                 <i class='bx bx-badge-check'></i>
                 <div>
                     <h3 className="skills__name">Creativity</h3>
-                    <span className="skills__level">Basic</span>
+                    <span className="skills__level">Advanced</span>
                 </div>
             </div>
         </div>
@@ -31,7 +31,7 @@ const Backend = (props) => {
                 <i class='bx bx-badge-check'></i>
                 <div>
                     <h3 className="skills__name">Teamwork</h3>
-                    <span className="skills__level">Basic</span>
+                    <span className="skills__level">Advanced</span>
                 </div>
             </div>
         </div>
