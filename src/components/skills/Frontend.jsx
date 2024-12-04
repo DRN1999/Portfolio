@@ -6,7 +6,7 @@ const Frontend = (props) => {
       <h3 className="skills__title">Design Skills</h3>
 
       <div className="skills__box">
-        <div className="skills__group">
+{/*         <div className="skills__group">
             <div className="skills__data">
                 <i class='bx bx-badge-check'></i>
                 <div>
@@ -14,7 +14,7 @@ const Frontend = (props) => {
                     <span className="skills__level">Basic</span>
                 </div>
             </div>
-        </div>
+        </div> */}
 
         <div className="skills__group">
             <div className="skills__data">
@@ -56,7 +56,7 @@ const Frontend = (props) => {
             </div>
         </div>
 
-        <div className="skills__group">
+{/*         <div className="skills__group">
             <div className="skills__data">
                 <i class='bx bx-badge-check'></i>
                 <div>
@@ -64,7 +64,7 @@ const Frontend = (props) => {
                     <span className="skills__level">Basic</span>
                 </div>
             </div>
-        </div>
+        </div> */}
         
       </div>
     </div>
